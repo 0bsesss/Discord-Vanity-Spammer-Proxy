@@ -5,3 +5,7 @@ GUILD_UPDATE dediğimiz şey sunucu ayarlarında herhangi bir değişiklik oldu�
 Buna vanity url dediğimiz sunucunun URL'si dahil tüm verilerin değişikliği gözüküyor biz de bu özelliği kullanarak her saniye spam atmadan tam olarak url düştüğü anı tutturarak 1 requestte halledilebilir hale getirdik.
 
 NOT : URL'SİNİ ALACAĞINIZ SUNUCUDA OLMANIZ ŞART.
+
+
+
+Proje @ldcSabo ya aittir,sadece proxy yapısı eklendi.
